@@ -1,0 +1,5 @@
+x=msgbox("I made this thing because I was bored at school" , 0+0 , "Message from WavetecRR")
+x=msgbox("I hope you enjoy this absolute disaster" , 0+0 , "Message from WavetecRR")
+x=msgbox("The application you have just executed is considered malware and can damage your PC in many ways. If you do not want to continue, close out the command prompt window now." , 0+0 , "ATLAS")
+x=msgbox("LAST WARNING! I am not responsible for any damage done with this malware! Clicking OK will start the payloads. YOU HAVE BEEN WARNED!" , 0+0 , "ATLAS")
+x=msgbox("DONT SAY I DIDNT WARN YOU" , 0+16 , "ATLAS")
